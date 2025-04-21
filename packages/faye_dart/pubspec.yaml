@@ -10,7 +10,7 @@ dependencies:
   equatable: ^2.0.7         # Latest Equatable :contentReference[oaicite:2]{index=2}
   logging: ^1.3.0           # Latest Logging :contentReference[oaicite:3]{index=3}
   meta: ^1.16.0             # Latest Meta :contentReference[oaicite:4]{index=4}
-  uuid: ^4.1.0              # Latest UUID :contentReference[oaicite:5]{index=5}
+  uuid:              # Latest UUID :contentReference[oaicite:5]{index=5}
   web_socket_channel: ^3.0.3 # Latest WebSocketChannel :contentReference[oaicite:6]{index=6}
 dev_dependencies:
   mocktail: ^1.0.3           # Latest Mocktail :contentReference[oaicite:7]{index=7}
